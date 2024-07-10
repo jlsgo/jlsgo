@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Python <br>🎯 Goals: aws <br>🎲 Fun fact: gremista </p>
+<p align="left">✨ Creating bugs since 91 <br>📚 I'm currently learning Python <br>🎯 Goals: aws <br>🎲 Fun fact: gremista </p>
 
 ###
 
