@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 91<br>📚 I'm currently learning Python<br>🎯 Goals: aws<br>🎲 Fun fact: gremista 
+✨ Creating bugs since 91<br>📚 I'm currently learning Python<br>🎯 Goals: aws specialist <br>🎲 Fun fact: gremista 
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jlsgo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jlsgo&icon=0&color=1)](https://visitcount.itsvg.in)
