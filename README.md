@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 91<br>📚 I'm currently learning Python<br>🎯 Goals: aws<br>🎲 Fun fact: gremista 
+✨ Creating bugs since 91<br>📚 I'm currently learning java<br> 
 
 
 ## 🌐 Socials:
