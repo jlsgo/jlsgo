@@ -1,14 +1,15 @@
 # 💻 Jhon Gonçalves  
-🚀 **Developer and Problem-Solver since 1991**  
-🎯 Passionate about technology and innovation, turning ideas into impactful solutions.  
+🚀 **Developer and Open Source Enthusiast**  
+🎯 Passionate about technology, innovation, and contributing to the open-source community.  
 
 ---
 
 ## 🌟 About Me  
-- 👨‍💻 Currently learning **Java** and exploring new technologies.  
-- 📈 Continuously improving skills in **data analysis** and **backend development**.  
-- 🛠️ Enthusiastic about automation, optimization, and solving complex problems.  
+- 👨‍💻 Currently learning **Java** and diving deeper into **open source projects**.  
+- 📈 Continuously improving skills in **data analysis**, **backend development**, and **cloud computing**.  
+- 🛠️ Enthusiastic about **automation**, **optimization**, and solving complex problems.  
 - 🌎 Fluent in **Portuguese** and **Italian**.  
+- 🤝 Open to collaborating on **open source initiatives** and joining **exciting projects**!  
 
 ---
 
@@ -32,7 +33,22 @@
 
 ### **Infrastructure and DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
+
+### **Version Control and Privacy Tools**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Bitwarden](https://img.shields.io/badge/Bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)  
 
 ---
+
+## 🔧 Interests and Goals  
+- 🐧 Advocating for **open source** and building solutions that benefit the tech community.  
+- 🌐 Exploring **cloud infrastructure** with **AWS** and edge computing with **Raspberry Pi**.  
+- 🛡️ Valuing **privacy** and promoting secure development practices.  
+- 🤝 Open to contributing to **open source projects** and collaborating with like-minded professionals.  
+- 🌱 Constantly learning and eager to explore innovative tools and methodologies.  
+
+---
+
+
