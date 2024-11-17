@@ -36,29 +36,3 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlsgo&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlsgo&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150">
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlsgo&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="150">
-</div>
-
----
-
-## 🔝 Top Contributed Repositories  
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jlsgo&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-</div>
-
----
-
-## 📈 Profile Visitors  
-[![](https://visitcount.itsvg.in/api?id=jlsgo&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
-
-> **Note:** This profile was created to share ideas, projects, and inspire others passionate about technology.
