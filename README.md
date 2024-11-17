@@ -7,6 +7,8 @@
 ## 🌟 About Me  
 - 👨‍💻 Currently learning **Java** and diving deeper into **open source projects**.  
 - 📈 Continuously improving skills in **data analysis**, **backend development**, and **cloud computing**.  
+- 🤖 Fascinated by **Artificial Intelligence (AI)** and building projects leveraging **Large Language Models (LLMs)**.  
+- 💻 Passionate about running my own **LLMs locally** to explore and innovate in AI development.  
 - 🛠️ Enthusiastic about **automation**, **optimization**, and solving complex problems.  
 - 🌎 Fluent in **Portuguese** and **Italian**.  
 - 🤝 Open to collaborating on **open source initiatives** and joining **exciting projects**!  
@@ -25,7 +27,6 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ### **Databases and Data Tools**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -44,6 +45,8 @@
 
 ## 🔧 Interests and Goals  
 - 🐧 Advocating for **open source** and building solutions that benefit the tech community.  
+- 🤖 Exploring and building projects with **Artificial Intelligence (AI)**.  
+- 🌐 Running and optimizing **LLMs** on local hardware for innovative applications.  
 - 🌐 Exploring **cloud infrastructure** with **AWS** and edge computing with **Raspberry Pi**.  
 - 🛡️ Valuing **privacy** and promoting secure development practices.  
 - 🤝 Open to contributing to **open source projects** and collaborating with like-minded professionals.  
