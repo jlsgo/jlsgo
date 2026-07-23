@@ -13,12 +13,6 @@
 - 🌎 Fluent in **Portuguese** and **Italian**.  
 - 🤝 Open to collaborating on **open source initiatives** and joining **exciting projects**!  
 
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goncalvesjhon/)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/jlsgo/)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jlsgo)  
 
 ---
 
